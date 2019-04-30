@@ -1,0 +1,21 @@
+#box1{
+	border:2px solid rgba(255, 51, 204, 0.5);
+	height: 50%;
+	width: 50%;
+	vertical-align: center;
+	line-height: 50px;
+	text-align: center;
+	font-family: 'Clicker Script', cursive;
+
+}
+
+#box2{
+	border:2px solid black;
+	margin-top: 50px;
+	font-family: 'Delius Swash Caps', cursive;
+}
+
+#box3{
+	border:2px solid black;
+	font-family: 'Sacramento', cursive;
+}
